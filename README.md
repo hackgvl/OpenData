@@ -2,7 +2,9 @@ UpstateEvents
 =============
 Please see the Wiki and Issues links in the right sidebar for the latest project updates.
 
-We're building a REST API with Greenville area technology communities.
+The purpose of this project is to provide infrastructure for tech communities to be aware of each other, make it easy to connect when it makes sense, and allow folks to build tools that promote what's happening in Greenville to people looking to get involved.
+
+We're building a REST API with Greenville area technology organizations and their events.
 
 We intend to pull in meetup events for each community via whatever source available: iCal, Meetup.com API, Facebook, Eventbrite, Rich Snippets (Microdata, Microformats, RDFa), or even website scraping.
 
