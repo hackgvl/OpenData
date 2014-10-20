@@ -15,9 +15,15 @@ We intend to pull in meetup events for each community via whatever source availa
 
 All by READ and trusted friends can POST, PUT, and DELETE.
 
+The API may be maintaine in Drupa, but the intention is not to be language specific, hence the API.
 
-## Examples of Tools
+For example a "robot" to scrape iCal events could be written in C# with it fedding new event data into the API.
 
-The intention is not to build all the tools. Rather, the REST API will be available for other tools to consume (GET) and to update (POST, PUT, DELETE). For instance, a tool to scrape iCal events could be written in C# and updates fed into the API. Then, a PHP tool could render a calendar of open-source meetups, or all meetups, or all organizations, or whatever.
+Then, a Rails tool could consume said data to render a calendar of open-source meetups, or all meetups, or all organizations, or whatever.
 
-Another example "consumer" tool/idea is to have a website to list tech community sponsorship needs (beer, food, coffee, space) and connect them with sponsors who are looking to offer such things.
+
+## On Building Tools
+
+The intention is not to build all the tools. Rather, the REST API will be available for other tools to consume (GET) and to update (POST, PUT, DELETE).
+
+An example "consumer" tool/idea is to have a website to list tech community sponsorship needs (beer, food, coffee, space) and connect them with sponsors who are looking to offer such things.
