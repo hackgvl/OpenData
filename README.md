@@ -1,6 +1,6 @@
 Please see the *Wiki Pages* and *Issues* links in the right sidebar for the latest project updates.
 
-Feel free to update the [https://docs.google.com/spreadsheets/d/1kNJRd0rw5eU7__0Wj9ZgSFg7gDiHOIbeisGvKkWivvU/edit?usp=sharing](spreadsheet of area tech communinities.)
+Feel free to update the [spreadsheet of area tech communinities](https://docs.google.com/spreadsheets/d/1kNJRd0rw5eU7__0Wj9ZgSFg7gDiHOIbeisGvKkWivvU/edit?usp=sharing)
 
 ## Why
 Our purpose is to make discovery and promotion of Greenville's tech organizations and events easier for everyone.
