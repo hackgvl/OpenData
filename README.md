@@ -1,4 +1,4 @@
-Please see the Wiki and Issues links in the right sidebar for the latest project updates.
+Please see the *Wiki Pages* and *Issues* links in the right sidebar for the latest project updates.
 
 ## Why
 Our purpose is to make discovery and promotion of Greenville's tech organizations and events easier for everyone.
