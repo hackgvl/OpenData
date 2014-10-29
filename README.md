@@ -24,12 +24,14 @@ For example a "robot" to scrape iCal events could be written in Microsoft's C# w
 
 ## Consumer Applications
 
-The intention is not to build all the tools or robots. Rather, the REST API will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
+Is it is with the provider robots, the intention is not to build all of the consumer applications. Rather, the REST API will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
 
 ## Examples
 [User Stories created at the first meeting](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2014.06.23).
 
-An example "consumer" tool/idea is to have a website to list tech community sponsorship needs (beer, food, coffee, space) and connect them with sponsors who are looking to offer such things.
+Example 1
+A "consumer" app to have a website to list tech community sponsorship needs (beer, food, coffee, space) and connect them with sponsors who are looking to offer such things.
 
-A Rails tool could consume said data to render a calendar of open-source meetups, or all meetups, or all organizations, or whatever.
+Example 2
+A Rails/PHP/Node/etc app could consume said data to render a calendar of open-source meetups, or all meetups, or all organizations, or whatever.
 
