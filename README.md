@@ -22,7 +22,7 @@ With different communities posting their event data in all sorts of ways, we'll 
 
 For example a "robot" to scrape iCal events could be written in Microsoft's C# with it feeding new event data into the API. The Meetup.com events coming from a Python robots. Facebook events pulled from a Node robot, etc, etc.
 
-## Consumer Robots
+## Consumer Applications
 
 The intention is not to build all the tools or robots. Rather, the REST API will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
 
