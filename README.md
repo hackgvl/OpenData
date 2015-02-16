@@ -1,4 +1,6 @@
-As of Feb 2015 we have a [Drupal REST API setup and working](https://github.com/codeforgreenville/UpstateEvents/issues/15).
+As of Feb 2015 we have
+* [Drupal REST API setup and working](https://github.com/codeforgreenville/UpstateEvents/issues/15).
+* [Documentation on how to GET, POST, PATCH] (https://github.com/codeforgreenville/UpstateEvents/issues/17)
 
 For more detailed updates, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
