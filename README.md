@@ -1,8 +1,10 @@
-As of March 2015 we have
-* [Drupal REST API setup and working](https://github.com/codeforgreenville/UpstateEvents/issues/15).
+As of April 2015 we have
+* RSS, JSON, and XML feeds of organization data.
+* We'll be taking ideas for simple IFTTT, Zapier, MailChimp RSS to Email and such to build actual tools.
+* [Drupal REST API setup and working](https://github.com/codeforgreenville/UpstateEvents/issues/15) at [http://greenville.orangecoat.net](http://greenville.orangecoat.net)
 * [Documentation on how to GET, POST, PATCH] (https://github.com/codeforgreenville/UpstateEvents/issues/17)
 
-For more detailed updates, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
+For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
 Feel free to update the [spreadsheet of area tech communities](https://docs.google.com/spreadsheets/d/1kNJRd0rw5eU7__0Wj9ZgSFg7gDiHOIbeisGvKkWivvU/edit?usp=sharing).
 
