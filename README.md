@@ -1,8 +1,8 @@
 As of April 2015 we have
-* RSS, JSON, and XML feeds of organization data.
+* For Humans, [a list of all tech organizations](http://greenville.orangecoat.net/organizations/all)
+* For Feed Readers, [RSS](http://greenville.orangecoat.net/organizations/all/feed) feeds of organization data.
 * We'll be taking ideas for simple IFTTT, Zapier to build simple tools, like [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
-* [Drupal REST API setup and working](https://github.com/codeforgreenville/UpstateEvents/issues/15) at [http://greenville.orangecoat.net](http://greenville.orangecoat.net)
-* For Robots/Coders [Documentation on how to GET, POST, PATCH] (https://github.com/codeforgreenville/UpstateEvents/issues/17)
+* For Robots/Coders JSON, and XML [Documentation on how to GET, POST, PATCH to the REST API] (https://github.com/codeforgreenville/UpstateEvents/issues/17)
 
 For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
