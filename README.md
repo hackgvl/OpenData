@@ -1,5 +1,5 @@
 ## Status
-As of August 2015 we have:
+As of Oct 2015 we have:
 * For Humans, [a list of all tech organizations](http://greenville.orangecoat.net/organizations/all)
 * For Feed Readers, [RSS](http://greenville.orangecoat.net/organizations/all/feed) feeds of organization data.
 * For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17), including filtering the data.
@@ -8,13 +8,15 @@ As of August 2015 we have:
 Next Steps: Tools
 * [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/UpstateEvents/issues/18) to build trust with users
 * We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
+* We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
+
 
 For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
 Feel free to update the [spreadsheet of area tech communities](https://docs.google.com/spreadsheets/d/1kNJRd0rw5eU7__0Wj9ZgSFg7gDiHOIbeisGvKkWivvU/edit?usp=sharing).
 
 ## Why
-Our purpose is to make discovery and promotion of Greenville's tech organizations and events easier for everyone.
+Our purpose is to make discovery and promotion of curated Greenville data. The first dataset is all the tech meetups/organizations and we're proceeding onto other data of interest to community member.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
 
 ## What
 We will maintain a comprehensive database of all area tech communities and their events which is updated primarily by "robots".
@@ -28,6 +30,8 @@ The REST API itself may be maintained in a tool like Drupal, but the intention i
 
 ## Provider Robots
 Folks involved in Code for Greenville may write some of the "robots", but we don't need to own those tools, they just need to be stable and trusted.
+
+Using events as a future example
 
 With different communities posting their event data in all sorts of ways, we'll need robots for a variety of purposes. iCal, Meetup.com API, Facebook, Eventbrite, Rich Snippets (Microdata, Microformats, RDFa), or even website scraping.
 
