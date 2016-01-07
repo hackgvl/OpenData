@@ -1,5 +1,6 @@
 ## Status
-As of Oct 2015 we have:
+As of Jan 2016 we have:
+* [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 * For Humans, [a list of all tech organizations](http://greenville.orangecoat.net/organizations/all)
 * For Feed Readers, [RSS](http://greenville.orangecoat.net/organizations/all/feed) feeds of organization data.
 * For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17), including filtering the data.
@@ -13,7 +14,7 @@ Next Steps: Tools
 
 For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
-Feel free to update the [spreadsheet of area tech communities](https://docs.google.com/spreadsheets/d/1kNJRd0rw5eU7__0Wj9ZgSFg7gDiHOIbeisGvKkWivvU/edit?usp=sharing).
+[Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/UpstateEvents/issues/18).
 
 ## Why
 Our purpose is to make discovery and promotion of curated Greenville data. The first dataset is all the tech meetups/organizations and we're proceeding onto other data of interest to community member.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
