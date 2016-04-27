@@ -1,6 +1,6 @@
 See it in action at https://data.openupstate.org
 ## Status
-As of April 2016 we have:
+As of May 2016 we have:
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
 * For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of organization data.
@@ -8,6 +8,7 @@ As of April 2016 we have:
 *  Our First Tool [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
 * To help meetup organizers, here's a rough [Regularly Scheduled Days and Times](https://data.openupstate.org/greenville-meetup-scheduling) view to show any overlap between meetups on the "2nd Wednesday" or "3rd Tuesday", etc.
+* A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
 
 Next Steps: Tools
 * [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/UpstateEvents/issues/18) to build trust with users
