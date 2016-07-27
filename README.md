@@ -1,5 +1,6 @@
 See it in action at https://data.openupstate.org
-## Status
+
+## Recent Progress
 As of July 26th 2016 we have:
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
@@ -9,8 +10,10 @@ As of July 26th 2016 we have:
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
 * To help meetup organizers, here's a rough [Regularly Scheduled Days and Times](https://data.openupstate.org/greenville-meetup-scheduling) view to show any overlap between meetups on the "2nd Wednesday" or "3rd Tuesday", etc.
 * A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
+* [Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/UpstateEvents/issues/18).
 
-Next Steps: Tools
+## Next Steps: Tools
+
 In general, see the [issues queue](https://github.com/codeforgreenville/UpstateEvents/issues) for to-do's, but here are hot topics
 * [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/UpstateEvents/issues/23) Pam Wood Browne and Steven Shelato
 * [Create iframe-able HTML views](https://github.com/codeforgreenville/UpstateEvents/issues/24) @allella
@@ -20,8 +23,6 @@ In general, see the [issues queue](https://github.com/codeforgreenville/UpstateE
 
 
 For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
-
-[Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/UpstateEvents/issues/18).
 
 ## Why
 Our purpose is to improve the discovery, promotion, and curation of open Greenville data. The first dataset is all the tech meetups/organizations and we're proceeding onto other data of interest to community member.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
