@@ -1,6 +1,6 @@
 See it in action at https://data.openupstate.org
 ## Status
-As of July 2016 we have:
+As of July 26th 2016 we have:
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
 * For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of organization data.
@@ -11,8 +11,8 @@ As of July 2016 we have:
 * A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
 
 Next Steps: Tools
-* [Add Skill Level to Tech Orgs](https://github.com/codeforgreenville/UpstateEvents/issues/23)
-* [Create iframe-able HTML views](https://github.com/codeforgreenville/UpstateEvents/issues/24)
+* [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/UpstateEvents/issues/23) Pam Wood Browne and Steven Shelato
+* [Create iframe-able HTML views](https://github.com/codeforgreenville/UpstateEvents/issues/24) @allella
 * [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/UpstateEvents/issues/18) to build trust with users
 * We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
 * We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
