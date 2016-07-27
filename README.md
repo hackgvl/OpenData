@@ -52,7 +52,7 @@ For example a "robot" to scrape iCal events could be written in Microsoft's C# w
 
 ## Consumer Applications
 
-As with the provider robots, the intention is not to build all of the consumer applications. Rather, the REST API will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
+As with the provider robots, the intention is not to build all of the consumer applications. Rather, the [REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17) will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
 
 ## Examples
 
