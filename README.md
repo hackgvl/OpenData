@@ -11,6 +11,7 @@ As of July 26th 2016 we have:
 * A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
 
 Next Steps: Tools
+In general, see the [issues queue](https://github.com/codeforgreenville/UpstateEvents/issues) for to-do's, but here are hot topics
 * [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/UpstateEvents/issues/23) Pam Wood Browne and Steven Shelato
 * [Create iframe-able HTML views](https://github.com/codeforgreenville/UpstateEvents/issues/24) @allella
 * [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/UpstateEvents/issues/18) to build trust with users
