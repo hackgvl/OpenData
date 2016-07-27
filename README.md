@@ -25,19 +25,23 @@ In general, see the [issues queue](https://github.com/codeforgreenville/UpstateE
 For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
 ## Why
+
 Our purpose is to improve the discovery, promotion, and curation of open Greenville data. The first dataset is all the tech meetups/organizations and we're proceeding onto other data of interest to community member.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
 
 ## What
+
 We will maintain a comprehensive database of all area tech communities and their events which is updated primarily by "robots".
 
 We expect others to build new tools and improve/automate existing ones by using this information. Thus, we reduce manual work and duplicate effort and shift the focus to creating new components.
 
 ## How
+
 We aim to provide a RESTful API infrastructure that allows create, read, update, delete (CRUD) requests.
 
 The REST API itself may be maintained in a tool like Drupal, but the intention is to be language agnostic about how we get the data and who uses it. Hence, we use REST as an abstraction layer between environments.
 
 ## Provider Robots
+
 Folks involved in Code for Greenville may write some of the "robots", but we don't need to own those tools, they just need to be stable and trusted.
 
 Using events as a future example
@@ -51,6 +55,7 @@ For example a "robot" to scrape iCal events could be written in Microsoft's C# w
 As with the provider robots, the intention is not to build all of the consumer applications. Rather, the REST API will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
 
 ## Examples
+
 [User Stories created at the first meeting](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2014.06.23).
 
 Example 1
