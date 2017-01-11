@@ -1,15 +1,22 @@
 See it in action at https://data.openupstate.org
 
 ## Recent Progress
-As of August 23th 2016 we have:
+As of Jan 11th 2017 we have:
+
+### Map and Other Open Data for Greenville
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
+* Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/maps)
+
+### Meetup Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
 * For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of organization data.
 * For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17), including filtering the data.
-*  Our First Tool [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
+*  Get [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
+* A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
+
+### Improved Communication
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
 * To help meetup organizers, here's a rough [Regularly Scheduled Days and Times](https://data.openupstate.org/greenville-meetup-scheduling) view to show any overlap between meetups on the "2nd Wednesday" or "3rd Tuesday", etc.
-* A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
 * [Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/UpstateEvents/issues/18).
 
 ## Next Steps: Tools
