@@ -17,7 +17,7 @@ As of Feb 28th 2017 we have:
 ### Improved Communication
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
 * To help meetup organizers, here's a rough [Regularly Scheduled Days and Times](https://data.openupstate.org/greenville-meetup-scheduling) view to show any overlap between meetups on the "2nd Wednesday" or "3rd Tuesday", etc.
-* [Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/UpstateEvents/issues/18).
+* [Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/OpenData/issues/18).
 
 ## Next Steps: Tools
 
@@ -59,7 +59,7 @@ As with the provider robots, the intention is not to build all of the consumer a
 
 ## Examples
 
-[User Stories created at the first meeting](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2014.06.23).
+[User Stories created at the first meeting](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2014.06.23).
 
 Example 1
 A "consumer" app to have a website to list tech community sponsorship needs (beer, food, coffee, space) and connect them with sponsors who are looking to offer such things.
