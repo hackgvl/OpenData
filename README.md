@@ -1,11 +1,11 @@
 See it in action at https://data.openupstate.org
 
 ## Recent Progress
-As of Jan 11th 2017 we have:
+As of Feb 28th 2017 we have:
 
 ### Map and Other Open Data for Greenville
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
-* Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/maps)
+* Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/maps), many by [SC Codes students](https://sccodes.org)
 
 ### Meetup Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
@@ -21,10 +21,11 @@ As of Jan 11th 2017 we have:
 
 ## Next Steps: Tools
 
-In general, see the [issues queue](https://github.com/codeforgreenville/UpstateEvents/issues) for to-do's, but here are hot topics
-* [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/UpstateEvents/issues/23) Pam Wood Browne and Steven Shelato (about 75% complete)
-* [Create iframe-able HTML views](https://github.com/codeforgreenville/UpstateEvents/issues/24) @allella (about 80% complete)
-* [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/UpstateEvents/issues/18) to build trust with users
+In general, see the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics
+* #25 
+* [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/OpenData/issues/23) Pam Wood Browne and Steven Shelato (about 75% complete)
+* [Create iframe-able HTML views](https://github.com/codeforgreenville/OpenData/issues/24) @allella (about 80% complete)
+* [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/OpenData/issues/18) to build trust with users
 * We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
 * We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
 
