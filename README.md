@@ -22,10 +22,10 @@ As of Feb 28th 2017 we have:
 ## Next Steps: Tools
 
 In general, see the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics
-* #25 
+* [Add CloudFlare and/or CDN to data. domain](https://github.com/codeforgreenville/OpenData/issues/25) 
 * [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/OpenData/issues/23) Pam Wood Browne and Steven Shelato (about 75% complete)
-* [Create iframe-able HTML views](https://github.com/codeforgreenville/OpenData/issues/24) @allella (about 80% complete)
-* [Validations tools for Organizations and Organizers](https://github.com/codeforgreenville/OpenData/issues/18) to build trust with users
+* [Create iframe-able HTML views](https://github.com/codeforgreenville/OpenData/issues/24) @allella (about 85% complete)
+* [Validations tools for Maps Organizations and Organizers](https://github.com/codeforgreenville/OpenData/issues/18) to build trust with users
 * We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
 * We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
 
