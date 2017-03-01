@@ -10,9 +10,9 @@ As of Feb 28th 2017 we have:
 ### Meetup Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
 * For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of organization data.
-* For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17), including filtering the data.
+* For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/OpenData/issues/17), including filtering the data.
 *  Get [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
-* A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/UpstateEvents/wiki/Meeting-Notes-2016.04.26)
+* A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2016.04.26)
 
 ### Improved Communication
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
@@ -24,13 +24,9 @@ As of Feb 28th 2017 we have:
 In general, see the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics
 * [Add CloudFlare and/or CDN to data. domain](https://github.com/codeforgreenville/OpenData/issues/25) 
 * [Add Short Descriptions to Tech Orgs](https://github.com/codeforgreenville/OpenData/issues/23) Pam Wood Browne and Steven Shelato (about 75% complete)
-* [Create iframe-able HTML views](https://github.com/codeforgreenville/OpenData/issues/24) @allella (about 85% complete)
 * [Validations tools for Maps Organizations and Organizers](https://github.com/codeforgreenville/OpenData/issues/18) to build trust with users
 * We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
 * We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
-
-
-For more detailed updates and meeting notes, please see the [*Wiki Pages*](https://github.com/codeforgreenville/UpstateEvents/wiki) and [*Issues*](https://github.com/codeforgreenville/UpstateEvents/issues) links in the right sidebar for the latest project updates and/or come to the next Code for Greenville meeting.
 
 ## Why
 
@@ -60,7 +56,7 @@ For example a "robot" to scrape iCal events could be written in Microsoft's C# w
 
 ## Consumer Applications
 
-As with the provider robots, the intention is not to build all of the consumer applications. Rather, the [REST API](https://github.com/codeforgreenville/UpstateEvents/issues/17) will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
+As with the provider robots, the intention is not to build all of the consumer applications. Rather, the [REST API](https://github.com/codeforgreenville/OpenData/issues/17) will be available to anyone for reading (GET) and trusted friends for changes (POST, PUT, and DELETE).
 
 ## Examples
 
