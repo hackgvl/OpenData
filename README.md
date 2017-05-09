@@ -1,11 +1,11 @@
 See it in action at https://data.openupstate.org
 
 ## Recent Progress
-As of Feb 28th 2017 we have:
+As of May 9th 2017 we have:
 
 ### Map and Other Open Data for Greenville
+* 52 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
 * [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
-* Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), many by [SC Codes students](https://sccodes.org)
 
 ### Meetup Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
