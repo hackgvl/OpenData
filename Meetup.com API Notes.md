@@ -7,4 +7,5 @@ Example Call to get Event Info:
 	https://api.meetup.com/Greenville-Data-Science-Analytics-Meetup/events/239703614?&key=[YOURAPIKEYHERE]
 
 Example Call to get Group Info (Including Next Event):
+
 	https://api.meetup.com/Greenville-Data-Science-Analytics-Meetup?&key=[YOURAPIKEYHERE]
