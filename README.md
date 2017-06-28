@@ -1,7 +1,7 @@
 See it in action at https://data.openupstate.org
 
 ## Recent Progress
-As of May 9th 2017 we have:
+As of July 28th 2017 we have:
 
 ### Map and Other Open Data for Greenville
 * 52 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
@@ -21,19 +21,17 @@ As of May 9th 2017 we have:
 
 ## Next Steps: Tools
 
-In general, see the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics:
-* [Add CloudFlare and/or CDN to data. domain](https://github.com/codeforgreenville/OpenData/issues/25) 
-* [Validations tools for Maps Organizations and Organizers](https://github.com/codeforgreenville/OpenData/issues/18) to build trust with users
-* We'll be using IFTTT, Zapier, and programming to build more tools for validating data and such.
-* We're expanding the data API into other public and human curated datasets. This could include things like locations (mills, points of interest), Wi-Fi, parking. The idea is that we can tie in at least some of this data with the Trolley Tracker and transportation.
+See the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics:
 
 ## Why
 
-Our purpose is to improve the discovery, promotion, and curation of open Greenville data. The first dataset is all the tech meetups/organizations and we're proceeding onto other data of interest to community member.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
+Our purpose is to improve the discovery, promotion, and curation of open Greenville data so people can build new and interesting things more quickly and easily.
+
+The first dataset was gathering an accurate and stable list of all the tech meetups/organizations.  There was a large set of use cases for meetup events at the very first CFG meeting. An events API is still on the table, but we're focusing on smaller, easier datasets to provide a broader range of interests and to engage people in the idea before tackling a complex set like events.
 
 ## What
 
-We will maintain a comprehensive database of all area tech communities and their events which is updated primarily by "robots".
+We will maintain a valid database of data, like tech meetups and map layers, which can be linked to in real-time and/or leveraged by "robots".
 
 We expect others to build new tools and improve/automate existing ones by using this information. Thus, we reduce manual work and duplicate effort and shift the focus to creating new components.
 
@@ -47,7 +45,7 @@ The REST API itself may be maintained in a tool like Drupal, but the intention i
 
 Folks involved in Code for Greenville may write some of the "robots", but we don't need to own those tools, they just need to be stable and trusted.
 
-Using events as a future example
+Using "events" as a future example:
 
 With different communities posting their event data in all sorts of ways, we'll need robots for a variety of purposes. iCal, Meetup.com API, Facebook, Eventbrite, Rich Snippets (Microdata, Microformats, RDFa), or even website scraping.
 
