@@ -1,11 +1,12 @@
 See it in action at https://data.openupstate.org
 
 ## Recent Progress
-As of July 18th 2017 we have:
+As of August 22nd 2017 we have:
 
-### Map and Other Open Data for Greenville
+### Map Layers for Greenville
 * 52 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
-* [A spreadsheet of open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
+* [A spreadsheet of existing and potential open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
+* For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/OpenData/issues/17), including filtering the data.
 
 ### Meetup Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
@@ -21,7 +22,7 @@ As of July 18th 2017 we have:
 
 ## Next Steps: Tools
 
-See the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's, but here are hot topics:
+See the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's.
 
 ## Why
 
