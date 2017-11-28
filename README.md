@@ -8,7 +8,7 @@ As of Nov 28th 2017 we have:
 * [A spreadsheet of existing and potential open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 * For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/OpenData/issues/17), including filtering the data.
 
-### Meetup Data For Greenville
+### Meetup Organization and Events Data For Greenville
 * For Humans, [a list of all tech organizations](https://data.openupstate.org/organizations/all)
 * For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of organization data.
 * For Robots/Coders JSON and XML with [documentation on how to GET, POST, PATCH to the REST API](https://github.com/codeforgreenville/OpenData/issues/17), including filtering the data.
