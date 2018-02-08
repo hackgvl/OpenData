@@ -8,7 +8,7 @@ As of Feb 7th 2017 we have:
 ### Meetup Organization and Events Data For Greenville
 * For Humans
     - A [ list of all tech organizations](https://data.openupstate.org/organizations/all)
-    - An example [tech calendar](https://nunie123.github.io/gtc/) built atop the [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues)) and meetup groups APIs.
+    - An example [tech calendar](https://nunie123.github.io/gtc/) built atop the [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) and [meetup groups APIs](https://github.com/codeforgreenville/OpenData/issues/17).
 * For Robots/Coders
     - A [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues).
     - A [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17).
