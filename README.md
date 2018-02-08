@@ -12,7 +12,7 @@ As of Feb 7th 2017 we have:
 * For Robots/Coders
     - A [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues).
     - A [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17).
-* For Feed Readers, [RSS](https://data.openupstate.org/organizations/all/feed) feeds of new organization.
+    - A [RSS](https://data.openupstate.org/organizations/all/feed) feed of new meetup groups.
 * Tools
     - [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
     - A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2016.04.26)
