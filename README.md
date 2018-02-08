@@ -1,5 +1,3 @@
-See it in action at https://data.openupstate.org
-
 ## Recent Progress
 As of Feb 7th 2017 we have:
 
