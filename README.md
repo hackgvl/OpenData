@@ -41,8 +41,8 @@ We expect others to leverage these APIs to build new open tools, and even new AP
 
 The first Code For Greenville meeting in 2014 sparked a lot of [ideas around meetup events](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2014.06.23). So, we started a [reliable list and API of all the tech meetups/organizations](https://data.openupstate.org/organizations).
 
-Now, we have a [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) that queries our own [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17). Our meetup events API polls event services, like Meetup.com and Eventbrite.com, for local meetup events and syndicates that data in a consistent, query-able format. 
+Now, we have a [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) that queries our own [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17) in order to poll event services, like Meetup.com and Eventbrite.com. The result is local meetup events data is syndicated via an (API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) in a consistent, query-able format. 
 
-We have an example [tech meetup calendar](https://nunie123.github.io/gtc/) but we hope and expect community members to build all sorts of calendars and tools that fit their needs.
+We have an example [tech meetup calendar](https://nunie123.github.io/gtc/) but we hope and expect community members to build all sorts of meetup oriented calendars and tools that fit their needs.
 
 We also have [numerous GeoJSON-based open map layers](https://data.openupstate.org/map-layers) which can be linked to in real-time. The idea is that when map data changes it automatically updates everywhere it's referenced.  This also allows for community curation of popular map layers to reduce duplication of effort and to speed up the creation of new maps that leverage these layers.
