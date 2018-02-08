@@ -5,7 +5,7 @@ As of Feb 7th 2017 we have:
 * 55 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
 * [A spreadsheet of existing and potential open data sets](https://docs.google.com/spreadsheets/d/1IWsFT1p0ZY-DInfMOFq_gmqpGuKyl5wyBb9VoyoEjRs/edit#gid=0) which anyone can edit
 
-### Meetup Organization and Events Data For Greenville
+### Meetup Group and Meetup Event Data For Greenville
 * For Humans
     - A [ list of all tech organizations](https://data.openupstate.org/organizations/all)
     - An example [tech calendar](https://nunie123.github.io/gtc/) built atop the [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) and [meetup groups APIs](https://github.com/codeforgreenville/OpenData/issues/17).
