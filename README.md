@@ -1,5 +1,5 @@
 ## Recent Progress
-As of Feb 7th 2017 we have:
+As of March 21th 2018 we have:
 
 ### Map Layers and Open Data for Greenville
 * 55 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
