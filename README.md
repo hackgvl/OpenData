@@ -1,5 +1,5 @@
 ## Recent Progress
-As of May 22th 2018 we have:
+As of July 2018 we have:
 
 ### Map Layers and Open Data for Greenville
 * 55 Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
@@ -18,6 +18,7 @@ As of May 22th 2018 we have:
     - A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2016.04.26)
 
 ### Improved Communication
+* A [HackGreenville community tech site](https://hackgreenville.com/) which pulls [events](https://hackgreenville.com/events) and [organizations](https://hackgreenville.com/orgs) from the APIs above.
 * For meetup organizers, we started a #meetuporganizers channel on the [HackGreenville Slack](https://hackgreenville.typeform.com/to/sBMjCF)
 * To help meetup organizers, here's a rough [Regularly Scheduled Days and Times](https://data.openupstate.org/greenville-meetup-scheduling) view to show any overlap between meetups on the "2nd Wednesday" or "3rd Tuesday", etc.
 * [Submit new or inaccurate info about tech meetups](https://github.com/codeforgreenville/OpenData/issues/18).
