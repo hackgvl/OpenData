@@ -8,7 +8,7 @@ As of October 2018 we have:
 ### Meetup Group and Meetup Event Data For Greenville
 * For Humans
     - A [ list of all tech organizations](https://data.openupstate.org/organizations/all)
-    - An example [tech calendar](https://nunie123.github.io/gtc/) built atop the [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) and [meetup groups APIs](https://github.com/codeforgreenville/OpenData/issues/17).
+    - An example [tech calendar](https://hackgreenville.com/calendar) built atop the [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) and [meetup groups APIs](https://github.com/codeforgreenville/OpenData/issues/17).
 * For Robots/Coders
     - A [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues).
     - A [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17).
@@ -44,6 +44,6 @@ The first Code For Greenville meeting in 2014 sparked a lot of [ideas around mee
 
 Now, we have a [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) that queries our own [meetup groups API](https://github.com/codeforgreenville/OpenData/issues/17) in order to poll event services, like Meetup.com and Eventbrite.com. The result is local meetup events data is syndicated via an (API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) in a consistent, query-able format. 
 
-We have an example [tech meetup calendar](https://nunie123.github.io/gtc/) but we hope and expect community members to build all sorts of meetup oriented calendars and tools that fit their needs.
+We have an example [tech meetup calendar](https://hackgreenville.com/calendar) but we hope and expect community members to build all sorts of meetup oriented calendars and tools that fit their needs.
 
 We also have [numerous GeoJSON-based open map layers](https://data.openupstate.org/map-layers) which can be linked to in real-time. The idea is that when map data changes it automatically updates everywhere it's referenced.  This also allows for community curation of popular map layers to reduce duplication of effort and to speed up the creation of new maps that leverage these layers.
