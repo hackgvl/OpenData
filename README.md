@@ -1,9 +1,10 @@
 ## Recent Progress
 As of May 2019 we have:
 
+* We have a [hub of sorts for Open Data](https://data.openupstate.org) discovery, but this project is main Open Data repository for Code For Greenville brigade members to learn and [collaborate on issues](https://github.com/codeforgreenville/OpenData/issues).
+
 ### Map Layers for Greenville and the Upstate
 * 60+ Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
-* A [hub of sorts for Open Data](https://data.openupstate.org) discovery
 * A [basic map layers API](https://github.com/codeforgreenville/OpenData/issues/17)
 
 ### Meetup Group and Meetup Event Data For Greenville
