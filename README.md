@@ -5,6 +5,7 @@ As of Aug 2019 we have:
 ### Map Layers for Greenville and the Upstate
 * 60+ Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
 * A [basic map layers API](https://github.com/codeforgreenville/OpenData/issues/17)
+* These map layers are based on this [Leaflet and Google Sheets template project and code](https://github.com/codeforgreenville/leaflet-google-sheets-template).
 
 ### Meetup Group and Meetup Event Data For Greenville
 * For Humans
