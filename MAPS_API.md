@@ -1,4 +1,4 @@
-Here's a start to documentation for interacting with the Map Layers and Organizations APIs.
+Here's a start to documentation for interacting with the Map Layers APIs.
 
 You'll want a tool that makes it easy to send HTTP requests to the rest API. For instance, [Guzzle](http://docs.guzzlephp.org/en/stable/) is a handy tool for PHP developers.
 
