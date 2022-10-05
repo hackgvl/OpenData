@@ -1,6 +1,6 @@
 We have a [hub of sorts for Open Data](https://data.openupstate.org) discovery, but this project is main Open Data repository for Code For Greenville brigade members to learn and [collaborate on issues](https://github.com/codeforgreenville/OpenData/issues).
 
-As of March 2021 we have:
+As of Oct 2022 we have:
 
 ### Map Layers for Greenville and the Upstate
 * 90+ Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
@@ -12,6 +12,7 @@ As of March 2021 we have:
     - An example [tech calendar](https://hackgreenville.com/calendar) and [events](https://hackgreenville.com/events) built atop the meetup events API.
     - An example list of [tech meetups, conferences, and such](https://hackgreenville.com/orgs) built atop the organizations API.
     - [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
+    - [Slack integrations with the HackGreenville Slack](https://github.com/codeforgreenville/c4g-events)
 * For Robots/Coders
     - A [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues).
     - An [organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md).
