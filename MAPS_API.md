@@ -4,7 +4,7 @@ You'll want a tool that makes it easy to send HTTP requests to the rest API. For
 
 Some of the examples below are written for a test tool like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) if you're running tests.
 
-[Need more background on REST testing / debugging tools?](https://github.com/codeforgreenville/UpstateEvents/issues/15#issuecomment-74209821)
+[Need more background on REST testing / debugging tools?]([https://github.com/hackgvl/events-api/issues/15#issuecomment-74209821](https://github.com/hackgvl/OpenData/issues/15#issuecomment-74209821))
 
 ## Maps API
 
