@@ -1,23 +1,21 @@
-We have a [hub of sorts for Open Data](https://data.openupstate.org) discovery, but this project is main Open Data repository for Code For Greenville brigade members to learn and [collaborate on issues](https://github.com/codeforgreenville/OpenData/issues).
-
-As of Oct 2022 we have:
+We have a [hub of sorts for Open Data](https://data.openupstate.org) discovery, but this project is main Open Data repository for _HackGreenville Labs_ contributors to learn and [collaborate on issues](https://github.com/hackgvl/OpenData/issues).
 
 ### Map Layers for Greenville and the Upstate
 * 90+ Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
-* A [basic map layers API](https://github.com/codeforgreenville/OpenData/blob/master/MAPS_API.md)
-* These map layers are based on this [Leaflet and Google Sheets template project and code](https://github.com/codeforgreenville/leaflet-google-sheets-template).
+* A [basic map layers API](https://github.com/hackgvl/OpenData/blob/master/MAPS_API.md)
+* These map layers are based on this [Leaflet and Google Sheets template project and code](https://github.com/hackgvl/leaflet-google-sheets-template).
 
 ### Meetup Group and Meetup Event Data For Greenville
 * For Humans
     - An example [tech calendar](https://hackgreenville.com/calendar) and [events](https://hackgreenville.com/events) built atop the meetup events API.
     - An example list of [tech meetups, conferences, and such](https://hackgreenville.com/orgs) built atop the organizations API.
-    - [Email Notices For New Tech Orgs](http://codeforgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
-    - [Slack integrations with the HackGreenville Slack](https://github.com/codeforgreenville/c4g-events)
+    - [Email Notices For New Tech Orgs](https://hackgreenville.us10.list-manage.com/subscribe?u=72f49b95543b434d24de7f27f&id=0ff96bdd44)
+    - [Slack integrations with the HackGreenville Slack](https://github.com/hackgvl/slack-events-bot)
 * For Robots/Coders
-    - A [meetup events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues).
-    - An [organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md).
+    - A [meetup events API](https://github.com/hackgvl/events-api/issues).
+    - An [organizations API](https://github.com/hackgvl/OpenData/blob/master/ORGANIZATIONS_API.md).
     - A [RSS](https://data.openupstate.org/organizations/all/feed) feed of new meetup groups.
-    - A [validation tool to check that each organizations homepage URL remains valid](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2016.04.26)
+    - A [validation tool to check that each organizations homepage URL remains valid](https://github.com/hackgvl/OpenData/wiki/Meeting-Notes-2016.04.26)
 
 ### Improved Communication
 * A [HackGreenville community Slack](https://hackgreenville.com/join-slack)
@@ -27,8 +25,8 @@ As of Oct 2022 we have:
 
 ## Next Steps
 
-* See the [issues queue](https://github.com/codeforgreenville/OpenData/issues) for to-do's and conversations.
-* [Attend a Code For Greenville meetup](https://data.openupstate.org/organization/code-for-greenville) to get involved.
+* See the [issues queue](https://github.com/hackgvl/OpenData/issues) for to-do's and conversations.
+* Join the [HackGreenville Slack](https://hackgreenville.com/join-slack) and connect with the HackGreenville Labs team in the #hg-labs Slack channel
 
 ## Why
 
@@ -42,9 +40,9 @@ We expect others to leverage these APIs to build new open tools, and even new AP
 
 ## What
 
-The first Code For Greenville meeting in 2014 sparked a lot of [ideas around meetup events](https://github.com/codeforgreenville/OpenData/wiki/Meeting-Notes-2014.06.23). So, we started a [reliable list and API of all the tech meetups/organizations](https://data.openupstate.org/organizations).
+The first meeting in 2014 sparked a lot of [ideas around meetup events](https://github.com/hackgvl/OpenData/wiki/Meeting-Notes-2014.06.23). So, we started a [reliable list and API of all the tech meetups/organizations](https://data.openupstate.org/organizations).
 
-Now, we have a [events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) that queries our own [organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md) in order to poll event services, like Meetup.com and Eventbrite.com. The result is local meetup events data is syndicated via an [events API](https://github.com/codeforgreenville/upstate_tech_cal_service/issues) in a consistent, query-able format. 
+Now, we have a [events API](https://github.com/hackgvl/events-api/issues) that queries our own [organizations API](https://github.com/hackgvl/OpenData/blob/master/ORGANIZATIONS_API.md) in order to poll event services, like Meetup.com and Eventbrite.com. The result is local meetup events data is syndicated via an [events API](https://github.com/hackgvl/events-api/issues) in a consistent, query-able format. 
 
 We have an example [tech meetup calendar](https://hackgreenville.com/calendar), but we hope and expect community members to build all sorts of meetup oriented calendars and tools that fit their needs.
 
