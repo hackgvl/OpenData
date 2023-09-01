@@ -1,8 +1,8 @@
 Here's a start to documentation for interacting with the Organizations APIs.
 
-You'll want a tool that makes it easy to send HTTP requests to the rest API. For instance, [Guzzle](http://docs.guzzlephp.org/en/stable/) is a handy tool for PHP developers.
+You'll want a tool that makes it easy to send HTTP requests to the rest API. For instance, [Guzzle](http://docs.guzzlephp.org/en/stable/) is a handy package for PHP developers.
 
-Some of the examples below are written for a test tool like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) if you're running tests.
+Some of the examples below are written for a test tool like [Postman](https://www.postman.com/) if you're running tests.
 
 [Need more background on REST testing / debugging tools?](https://github.com/hackgvl/OpenData/issues/15#issuecomment-74209821)
 
@@ -36,9 +36,9 @@ If you get an Access Denied (error 403) on while you're already logged into Drup
 
 #### Query String
 - city=yourcity (for spaces use %20)
-- org_status= (active, inactive, on-hiatus)
+- org_status= (active, inactive, on-hiatus, planned)
 - event_service= (eventbrite, facebook, meetup, nvite, open-collective)
-- organization_type= (code-school, conference, meetup)
+- organization_type= (code-school, conference, meetup, workforce)
 - tag_filter_id= an integer that matches the Drupal taxonomy / tag id (ex. &tag_filter_id=1 or for multiple tags at once &tag_filter_id=1,2 )
 - _format= (json, hal_json, xml)
 - [If you have a Drupal account then you can login and see the "Organization" form for the latest pre-defined values](https://data.openupstate.org/node/add/organization)
