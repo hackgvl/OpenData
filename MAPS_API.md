@@ -10,8 +10,7 @@ Some of the examples below are written for a test tool like [Postman](https://ch
 
 ### List of All Map Layers (Robot View)
 
-**URL**
-To view all organizations - https://data.openupstate.org/rest/maps?_format=json
+**URL**: (to data of all map layers) - https://data.openupstate.org/rest/maps?_format=json
 
 **Method**: GET
 **Expected Response**: 200 OK
@@ -25,8 +24,7 @@ To view all organizations - https://data.openupstate.org/rest/maps?_format=json
 
 ### List of All Map Layers (Human/ Web Browser View)
 
-**URL**
-To view all map layers - https://data.openupstate.org/map-layers
+**URL**: (to view all map layers in browser) - https://data.openupstate.org/map-layers
 
 **Method**: GET
 **Expected Response**: 200 OK
