@@ -1,3 +1,15 @@
+# Deprecated as of May 2024
+
+As of May 2024, the organizations API has been decommissioned with the migration of our [Events API]([https://github.com/hackgvl/hackgreenville-com/blob/develop/EVENTS_API.md]) to HackGreenville.com
+The events API is still active and was / is the primary use case for all applications in the 8 years since we build the organizations API.
+
+The list of organizations, and org details, can still be viewed on the HackGreenville website.
+
+If you have a use case for needing to query organizations, instead of events, then reach out to the folks at [HackGreenville Labs]([[url](https://hackgreenville.com/labs)]).
+
+
+===============================================================================
+
 Here's a start to documentation for interacting with the Organizations APIs.
 
 You'll want a tool that makes it easy to send HTTP requests to the rest API. For instance, [Guzzle](http://docs.guzzlephp.org/en/stable/) is a handy package for PHP developers.
