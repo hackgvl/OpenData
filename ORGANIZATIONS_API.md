@@ -1,9 +1,14 @@
 # Deprecated as of May 2024
 
-As of May 2024, the organizations API has been decommissioned with the migration of our [Events API]([https://github.com/hackgvl/hackgreenville-com/blob/develop/EVENTS_API.md]) to HackGreenville.com
-The events API is still active and was / is the primary use case for all applications in the 8 years since we built the organizations API.
+As of May 2024, the organizations API has been migrated to the HackGreenville.com and the associated [Laravel HackGreenville repository](https://github.com/hackgvl/hackgreenville-com).
+
+The new [Organizations API](https://hackgreenville.com/api/v0/orgs) has less filtering options. The only filter is using "tags". So, API calls would look like
+- `https://hackgreenville.com/api/v0/orgs` - show all organizations
+- `https://hackgreenville.com/api/v0/orgs?tags=1` - show all organizations with a tag ID = 1 (which is the tag for OpenWorks Coworking)
 
 The [list of organizations, and org details, can still be viewed on the HackGreenville website](https://hackgreenville.com/orgs).
+
+The [Events API](https://github.com/hackgvl/hackgreenville-com/blob/develop/EVENTS_API.md) is still active. 
 
 If you have a use case to query organizations, instead of events, then reach out to the folks at [HackGreenville Labs]([[url](https://hackgreenville.com/labs)]).
 
@@ -19,7 +24,7 @@ Some of the examples below are written for a test tool like [Postman](https://ww
 [Need more background on REST testing / debugging tools?](https://github.com/hackgvl/OpenData/issues/15#issuecomment-74209821)
 
 
-## Organizations API
+## (Deprecated) Organizations API
 
 Viewing, creating, and updating organizations. 
 
