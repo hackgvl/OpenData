@@ -1,4 +1,4 @@
-# Deprecated as of May 2024
+# Migrated as of May 2024
 
 As of May 2024, the organizations API has been migrated to the HackGreenville.com and the associated [Laravel HackGreenville repository](https://github.com/hackgvl/hackgreenville-com).
 
