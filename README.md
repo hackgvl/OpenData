@@ -1,4 +1,4 @@
-This repository is a [hub of sorts for Open Data](https://data.openupstate.org) discovery managed by _HackGreenville Labs_ contributors.
+This repository is a hub of sorts for publically available "open data" related to Greenville and the Upstate of South Carolina.  This effort is guided by _HackGreenville Labs_ contributors.
 
 ### Map Layers for Greenville and the Upstate
 * 90+ Real-time, linkable [GeoJSON-based open map layers](https://data.openupstate.org/map-layers), almost all by [SC Codes students](https://sccodes.org)
