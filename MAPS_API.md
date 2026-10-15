@@ -1,4 +1,5 @@
-# DEPRECATED
+# Migrated as of October 2026
+
 This API was deprecated in October 2026 and will be replace with a new API managed by [Hackgreenville Labs](https://hackgreenville.com/labs).
 
 -------------------------------------------------------------
