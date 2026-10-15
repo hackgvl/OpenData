@@ -2,15 +2,11 @@
 
 As of May 2024, the organizations API has been migrated to the HackGreenville.com and the associated [Laravel HackGreenville repository](https://github.com/hackgvl/hackgreenville-com).
 
-The new [Organizations API](https://hackgreenville.com/api/v0/orgs) has less filtering options. The only filter is using "tags". So, API calls would look like
-- `https://hackgreenville.com/api/v0/orgs` - show all organizations
-- `https://hackgreenville.com/api/v0/orgs?tags=1` - show all organizations with a tag ID = 1 (which is the tag for OpenWorks Coworking)
+See the documentation for the [Events API](https://github.com/hackgvl/hackgreenville-com/blob/develop/docs/EVENTS_API.md) and [Organizations API](https://github.com/hackgvl/hackgreenville-com/blob/develop/docs/ORGS_API.md), which includes an [API explorer](https://hackgreenville.com/docs/api).
 
 The [list of organizations, and org details, can still be viewed on the HackGreenville website](https://hackgreenville.com/orgs).
 
-The [Events API](https://github.com/hackgvl/hackgreenville-com/blob/develop/EVENTS_API.md) is still active. 
-
-If you have a use case to query organizations, instead of events, then reach out to the folks at [HackGreenville Labs]([[url](https://hackgreenville.com/labs)]).
+If you have a use case to query organizations, instead of events, then reach out to the folks at [HackGreenville Labs](https://hackgreenville.com/labs).
 
 
 ===============================================================================
