@@ -1,3 +1,12 @@
+# DEPRECATED
+This API was deprecated in October 2026 and will be replace with a new API managed by [Hackgreenville Labs](https://hackgreenville.com/labs).
+
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
 Here's a start to documentation for interacting with the Map Layers APIs.
 
 You'll want a tool that makes it easy to send HTTP requests to the rest API. For instance, [Guzzle](http://docs.guzzlephp.org/en/stable/) is a handy tool for PHP developers.
